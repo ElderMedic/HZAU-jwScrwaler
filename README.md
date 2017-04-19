@@ -15,10 +15,10 @@
 * 数据库：Sqlite
 
 ## 3.项目结构
-1. ZhengFang.db 数据库
-2. model.py 模型层，通过ORM与数据库相连
+1. jwInfo.db 数据库
+2. peeweeFormModel.py 模型层，通过ORM与数据库相连
 3. spider.py 业务层，网页爬虫，**项目入口**
-4. parseHtml.py 业务层，网页解析工具
+4. HTMLparser.py 业务层，网页解析工具
 
 
 ## 4.项目功能
