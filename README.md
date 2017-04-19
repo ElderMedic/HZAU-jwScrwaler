@@ -1,5 +1,6 @@
 # 华中农大教务系统爬虫
-拾人牙慧的作品，基于正方教务助手改编，实现对华农教务的爬取。欢迎fork/star
+拾人牙慧的作品，基于正方教务助手改编，实现对华农教务的爬取。
+感谢 simpleBrightMan，欢迎fork/star
 正方助手具体参见：http://blog.csdn.net/nghuyong/article/details/52203443
 ## 1.项目定义
 这个项目实现了华农教务系统的一套API：
